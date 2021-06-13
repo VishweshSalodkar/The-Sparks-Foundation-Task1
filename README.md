@@ -1,2 +1,2 @@
-# The-Spark-Foundation-Task
+# The-Sparks-Foundation-Task
 Prediction using Supervised ML
